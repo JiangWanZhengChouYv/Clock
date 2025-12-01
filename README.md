@@ -23,8 +23,6 @@
      # 然后在浏览器打开 http://localhost:8000/index.html
      ```
 
-## 演示
-（这里建议放置界面截图或演示 GIF，便于用户直观了解外观与功能）
 
 ## 支持的浏览器
 - 现代浏览器：Chrome、Firefox、Edge、Safari
